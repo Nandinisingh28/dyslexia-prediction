@@ -18,15 +18,15 @@ It combines **Flask** (for the main website with subscription & contact forms) a
 ## 📂 Project Structure
 
 dys/
-│── app.py # Flask web app
-│── streamlit_app.py # Streamlit ML tool
-│── dyslexia_model.py # Model training script
-│── svm_model.pkl # Saved trained model
-│── label_encoders.pkl # Encoders for categorical features
-│── Dataset-Dyslexia-BCA (1).csv # Training dataset
-│── templates/ # HTML templates (Flask)
-│── static/ # Static assets (CSS, JS, images)
-│── .venv/ # Virtual environment (can be recreated)
+-│── app.py # Flask web app
+-│── streamlit_app.py # Streamlit ML tool
+-│── dyslexia_model.py # Model training script
+-│── svm_model.pkl # Saved trained model
+-│── label_encoders.pkl # Encoders for categorical features
+-│── Dataset-Dyslexia-BCA (1).csv # Training dataset
+-│── templates/ # HTML templates (Flask)
+-│── static/ # Static assets (CSS, JS, images)
+-│── .venv/ # Virtual environment (can be recreated)
 
 
 ---
