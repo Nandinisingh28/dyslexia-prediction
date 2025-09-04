@@ -1,0 +1,12 @@
+# Web frameworks
+flask
+streamlit
+gunicorn
+
+# ML and data handling
+scikit-learn
+pandas
+numpy
+
+# Optional but recommended (if used in templates/plots)
+matplotlib
