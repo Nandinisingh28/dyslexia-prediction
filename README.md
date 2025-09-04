@@ -15,6 +15,10 @@ It combines **Flask** (for the main website with subscription & contact forms) a
 
 ---
 
+LANDING PAGE
+
+![App Screenshot](Dyslexia.png)
+
 ## 📂 Project Structure
 
 dys/
@@ -49,3 +53,4 @@ scikit-learn
 pandas
 imbalanced-learn
 pymongo
+
